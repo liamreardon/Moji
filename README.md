@@ -1,7 +1,7 @@
-![Moji](https://github.com/liamreardon/Moji/blob/master/emijo/images/Moji%20Icon%20512.jpg)
+![Moji](https://github.com/liamreardon/Moji/blob/master/emijo/images/Moji_Icon_512_50.jpg)
 
 # Moji + – Share your Emoji Art with the World!
-
+20512.jpg
 > Think you have what it takes to become the #1 Emoji artist in the world? Well with Moji you can prove to everyone you are! Create, Share and climb your way up the Top Charts in this all new reimagined emoji app.
 With Moji + you can now share your Emoji Art and create your own profile!
 
